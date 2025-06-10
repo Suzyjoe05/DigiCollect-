@@ -1,4 +1,3 @@
-# DigiCollect
 DigiCollect is a student-focused Web3 application that allows users to collect, verify, and showcase their academic achievements on-chain all without needing any prior blockchain experience.
 
 ## 🌟 Key Features
