@@ -1,3 +1,5 @@
+# DigiCollect
+
 DigiCollect is a student-focused Web3 application that allows users to collect, verify, and showcase their academic achievements on-chain all without needing any prior blockchain experience.
 
 ## 🌟 Key Features
@@ -19,4 +21,4 @@ DigiCollect was built to solve the problem of unverifiable certificates, academi
 [Coming Soon]
 
 ## 🧠 Author
-[Sussan Joseph - LinkedIn](https://ng.linkedin.com/in/sussan-joseph-9a5482273# DigiCollect-
+[Sussan Joseph - LinkedIn](https://ng.linkedin.com/in/sussan-joseph-9a5482273
